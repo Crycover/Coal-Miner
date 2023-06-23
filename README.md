@@ -1,1 +1,1 @@
-# Coal-Miner Hyper Casual Türünde Stack Mekaniğini göstermek için hazırladığım bir çalışma. Sırta çapraz şekilde stackleme, engele çarpınca stacklerın sırttan gitmesi, Finish bölümüne ulaşınca stacklerin DoTween ile efect şeklinde hedefi vurması ve bitiş.
+# Coal-Miner Hyper Casual Türünde Stack Mekaniğini göstermek için hazırladığım bir çalışma. Sırta çapraz şekilde stackleme, engele çarpınca stacklerın sırttan gitmesi, Finish bölümüne ulaşınca stacklerin DoTween ile effect şeklinde hedefi vurması ve bitiş.
